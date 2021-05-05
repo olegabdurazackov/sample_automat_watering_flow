@@ -1,8 +1,8 @@
 # sample_automat_watering_flow
 
-##Sample automat watering room flow
+## Sample automat watering room flow
 
-##Пример автомата полива комнатных цветов
+## Пример автомата полива комнатных цветов
 
   Полив производится в дневное время
   в течении 3 секунд (агумент функцмм poliw)
